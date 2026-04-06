@@ -177,13 +177,11 @@ Denominator citable set:
 
 The largest 2025 citation contributions in the 2023-2024 window were:
 
-| 2025 citations | Publication year | Title |
-| ---: | ---: | --- |
-| 17 | 2024 | *Uncovering Universal Characteristics of Homing Paths using Foraging Robots* |
-| 16 | 2024 | *Molecular Drivers of Aging in Biomolecular Condensates: Desolvation, Rigidification, and Sticker Lifetimes* |
-| 14 | 2023 | *Models of Cell Processes are Far from the Edge of Chaos* |
-| 12 | 2023 | *Interplay between Mechanochemical Patterning and Glassy Dynamics in Cellular Monolayers* |
-| 12 | 2023 | *Tissue Flows Are Tuned by Actomyosin-Dependent Mechanics in Developing Embryos* |
+1. **17 citations** in 2025, published in **2024**: *Uncovering Universal Characteristics of Homing Paths using Foraging Robots*
+2. **16 citations** in 2025, published in **2024**: *Molecular Drivers of Aging in Biomolecular Condensates: Desolvation, Rigidification, and Sticker Lifetimes*
+3. **14 citations** in 2025, published in **2023**: *Models of Cell Processes are Far from the Edge of Chaos*
+4. **12 citations** in 2025, published in **2023**: *Interplay between Mechanochemical Patterning and Glassy Dynamics in Cellular Monolayers*
+5. **12 citations** in 2025, published in **2023**: *Tissue Flows Are Tuned by Actomyosin-Dependent Mechanics in Developing Embryos*
 
 # Why This Works
 
