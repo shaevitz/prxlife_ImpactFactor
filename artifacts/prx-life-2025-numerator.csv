@@ -1,0 +1,101 @@
+work_id,doi,title,publication_date,publication_year,type,citations_in_target_year,included_in_denominator
+https://openalex.org/W4385094162,https://doi.org/10.1103/prxlife.1.013002,"Conflicting Roles of Flagella in Planktonic Protists: Propulsion, Resource Acquisition, and Stealth",2023-07-20,2023,article,2,True
+https://openalex.org/W4384927256,https://doi.org/10.1103/prxlife.1.010001,"Editorial: PRX Life, Where Physics and Life Sciences Converge",2023-07-20,2023,editorial,0,False
+https://openalex.org/W4384934712,https://doi.org/10.1103/prxlife.1.013001,Interplay between Mechanochemical Patterning and Glassy Dynamics in Cellular Monolayers,2023-07-20,2023,article,12,True
+https://openalex.org/W4384934636,https://doi.org/10.1103/prxlife.1.013003,Thermodynamic Limits of Sperm Swimming Precision,2023-07-20,2023,article,10,True
+https://openalex.org/W4385235880,https://doi.org/10.1103/prxlife.1.013004,Tissue Flows Are Tuned by Actomyosin-Dependent Mechanics in Developing Embryos,2023-07-25,2023,article,12,True
+https://openalex.org/W4385303265,https://doi.org/10.1103/prxlife.1.013005,Speed Inversion in a Potts Glass Model of Cortical Dynamics,2023-07-27,2023,article,2,True
+https://openalex.org/W4385577905,https://doi.org/10.1103/prxlife.1.013006,Theory of Rheology and Aging of Protein Condensates,2023-08-04,2023,article,7,True
+https://openalex.org/W4385666845,https://doi.org/10.1103/prxlife.1.013007,Synchronous Replication Initiation of Multiple Origins,2023-08-08,2023,article,1,True
+https://openalex.org/W4385740374,https://doi.org/10.1103/prxlife.1.013008,Normative Framework for Deriving Neural Networks with Multicompartmental Neurons and Non-Hebbian Plasticity,2023-08-10,2023,article,0,True
+https://openalex.org/W4385839516,https://doi.org/10.1103/prxlife.1.013009,Data-Driven Model Construction for Anisotropic Dynamics of Active Matter,2023-08-15,2023,article,2,True
+https://openalex.org/W4385966948,https://doi.org/10.1103/prxlife.1.013010,From Effective Interactions Extracted Using Hi-C Data to Chromosome Structures in Conventional and Inverted Nuclei,2023-08-17,2023,article,9,True
+https://openalex.org/W4386070036,https://doi.org/10.1103/prxlife.1.011001,Quantitative Theory of Viral-Immune Coevolution May Be within Reach,2023-08-22,2023,article,1,True
+https://openalex.org/W4386225115,https://doi.org/10.1103/prxlife.1.013011,Bacterial Replication Initiation as Precision Control by Protein Counting,2023-08-28,2023,article,9,True
+https://openalex.org/W4296563412,https://doi.org/10.1103/prxlife.1.013012,Molecular Motors Enhance Microtubule Lattice Plasticity,2023-08-31,2023,article,1,True
+https://openalex.org/W4386459156,https://doi.org/10.1103/prxlife.1.013013,Confinement Mechanisms for Epigenetic Modifications of Nucleosomes,2023-09-05,2023,article,2,True
+https://openalex.org/W4386496617,https://doi.org/10.1103/prxlife.1.013014,Cell Lineage Statistics with Incomplete Population Trees,2023-09-07,2023,article,1,True
+https://openalex.org/W4386742912,https://doi.org/10.1103/prxlife.1.013015,Synthetic Biology for Vector-Borne Diseases,2023-09-14,2023,article,1,True
+https://openalex.org/W4386863690,https://doi.org/10.1103/prxlife.1.013016,Light-Driven Flagella Elucidate the Role of Hook and Cell Body Kinematics in Bundle Formation,2023-09-19,2023,article,3,True
+https://openalex.org/W4387016076,https://doi.org/10.1103/prxlife.1.010002,Editorial: To Review Is to Be,2023-09-25,2023,editorial,0,False
+https://openalex.org/W4387378136,https://doi.org/10.1103/prxlife.1.023001,Connecting cooperative transport by ants with the physics of self-propelled particles,2023-10-05,2023,article,5,True
+https://openalex.org/W4387528506,https://doi.org/10.1103/prxlife.1.023002,Odd Elastohydrodynamics: Non-Reciprocal Living Material in a Viscous Fluid,2023-10-11,2023,article,6,True
+https://openalex.org/W4387706560,https://doi.org/10.1103/prxlife.1.023003,Semantic Information in a Model of Resource Gathering Agents,2023-10-17,2023,article,7,True
+https://openalex.org/W4226004899,https://doi.org/10.1103/prxlife.1.023004,Emergence of Single- versus Multi-State Allostery,2023-11-09,2023,article,0,True
+https://openalex.org/W4388699249,https://doi.org/10.1103/prxlife.1.023005,Information Bottleneck in Molecular Sensing,2023-11-15,2023,article,8,True
+https://openalex.org/W4389047021,https://doi.org/10.1103/prxlife.1.023006,Tension Remodeling Regulates Topological Transitions in Epithelial Tissues,2023-11-27,2023,article,6,True
+https://openalex.org/W4389379069,https://doi.org/10.1103/prxlife.1.023007,Interplay Between Mechanosensitive Adhesions and Membrane Tension Regulates Cell Motility,2023-12-06,2023,article,5,True
+https://openalex.org/W4389765773,https://doi.org/10.1103/prxlife.1.023008,Spontaneous Rotation of Active Droplets in Two and Three Dimensions,2023-12-14,2023,article,9,True
+https://openalex.org/W4389782980,https://doi.org/10.1103/prxlife.1.023009,Models of Cell Processes are Far from the Edge of Chaos,2023-12-15,2023,article,14,True
+https://openalex.org/W4389947877,https://doi.org/10.1103/prxlife.1.023010,Actin and Microtubules Position Stress Granules,2023-12-19,2023,article,6,True
+https://openalex.org/W4390049860,https://doi.org/10.1103/prxlife.1.023011,Mapping Stochastic Collective Behavior Distinguishes Subtle Mutations in Social Bacteria,2023-12-21,2023,article,1,True
+https://openalex.org/W4390103466,https://doi.org/10.1103/prxlife.1.023012,Robust Retrieval of Dynamic Sequences through Interaction Modulation,2023-12-22,2023,article,9,True
+https://openalex.org/W4390227544,https://doi.org/10.1103/prxlife.1.023013,Impact of Linker Length on Biomolecular Condensate Formation,2023-12-26,2023,article,7,True
+https://openalex.org/W4390774584,https://doi.org/10.1103/prxlife.2.013001,Phenotypic Variability Shapes Bacterial Responses to Opposing Gradients,2024-01-09,2024,article,2,True
+https://openalex.org/W4390753273,https://doi.org/10.1103/prxlife.2.013002,Mechanisms of Sarcomere Assembly in Muscle Cells Inferred from Sequential Ordering of Myofibril Components,2024-01-11,2024,article,6,True
+https://openalex.org/W4390973092,https://doi.org/10.1103/prxlife.2.013003,Measuring Vibrational Modes in Living Human Cells,2024-01-18,2024,article,7,True
+https://openalex.org/W4391132540,https://doi.org/10.1103/prxlife.2.013004,Elastic Contractile Stress in the Basement Membrane Generates Basal Tension in Epithelia,2024-01-23,2024,article,6,True
+https://openalex.org/W4391219279,https://doi.org/10.1103/prxlife.2.013005,Impact of Isotopic Exchange on Hydrated Protein Dynamics Revealed by Polarized Neutron Scattering,2024-01-25,2024,article,1,True
+https://openalex.org/W4391347279,https://doi.org/10.1103/prxlife.2.013006,Four-Dimensional Mesoscale Liquid Model of Nucleus Resolves Chromatin's Radial Organization,2024-01-30,2024,article,2,True
+https://openalex.org/W4391654453,https://doi.org/10.1103/prxlife.2.013007,"Ion Channels in Critical Membranes: Clustering, Cooperativity, and Memory Effects",2024-02-08,2024,article,6,True
+https://openalex.org/W4391776178,https://doi.org/10.1103/prxlife.2.013008,Geometrical Structure of Bifurcations during Spatial Decision-Making,2024-02-13,2024,article,8,True
+https://openalex.org/W4391954334,https://doi.org/10.1103/prxlife.2.013009,Single-Molecule Morphology of Topologically Digested Olympic Networks,2024-02-20,2024,article,3,True
+https://openalex.org/W4392284555,https://doi.org/10.1103/prxlife.2.013010,Gene Expression Tradeoffs Determine Bacterial Survival and Adaptation to Antibiotic Stress,2024-02-29,2024,article,5,True
+https://openalex.org/W4392584927,https://doi.org/10.1103/prxlife.2.013011,Local and Global Variability in Developing Human T-Cell Repertoires,2024-03-08,2024,article,3,True
+https://openalex.org/W4392702101,https://doi.org/10.1103/prxlife.2.013012,RNA-induced Allosteric Coupling Drives Viral Capsid Assembly,2024-03-12,2024,article,7,True
+https://openalex.org/W4392804675,https://doi.org/10.1103/prxlife.2.013013,Effect of Synaptic Heterogeneity on Neuronal Coordination,2024-03-14,2024,article,2,True
+https://openalex.org/W4392915888,https://doi.org/10.1103/prxlife.2.013014,Interactions and Migration Rescuing Ecological Diversity,2024-03-18,2024,article,8,True
+https://openalex.org/W4393082394,https://doi.org/10.1103/prxlife.2.013015,Emergence of Homochirality via Template-Directed Ligation in an RNA Reactor,2024-03-22,2024,article,7,True
+https://openalex.org/W4393181714,https://doi.org/10.1103/prxlife.2.013016,Finding the Last Bits of Positional Information,2024-03-26,2024,article,8,True
+https://openalex.org/W4393411751,https://doi.org/10.1103/prxlife.2.023001,Fluctuating Landscapes and Heavy Tails in Animal Behavior,2024-04-02,2024,article,6,True
+https://openalex.org/W4393928620,https://doi.org/10.1103/prxlife.2.023002,Active Density Pattern Formation in Bacterial Binary Mixtures,2024-04-04,2024,article,11,True
+https://openalex.org/W4394767718,https://doi.org/10.1103/prxlife.2.023003,Bacteria Tune a Trade-off between Adhesion and Migration to Colonize Surfaces under Flow,2024-04-12,2024,article,6,True
+https://openalex.org/W4394855927,https://doi.org/10.1103/prxlife.2.023004,DiSTNet2D: Leveraging Long-Range Temporal Information for Efficient Segmentation and Tracking,2024-04-16,2024,article,7,True
+https://openalex.org/W4394932385,https://doi.org/10.1103/prxlife.2.023005,Disentanglement of Evolutionary Constraints in Statistical Models of Proteins,2024-04-18,2024,article,1,True
+https://openalex.org/W4395036711,https://doi.org/10.1103/prxlife.2.023006,"Divide-and-Conquer Quantum Algorithm for Hybrid <mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML""><mml:mrow><mml:mi>d</mml:mi><mml:mi>e</mml:mi></mml:mrow><mml:mo> </mml:mo><mml:mrow><mml:mi>n</mml:mi><mml:mi>o</mml:mi><mml:mi>v</mml:mi><mml:mi>o</mml:mi></mml:mrow></mml:math> Genome Assembly of Short and Long Reads",2024-04-23,2024,article,5,True
+https://openalex.org/W4395467018,https://doi.org/10.1103/prxlife.2.023007,Inferring the Dynamics of Ionic Currents from Recursive Piecewise Data Assimilation of Approximate Neuron Models,2024-04-25,2024,article,3,True
+https://openalex.org/W4398175567,https://doi.org/10.1103/prxlife.2.020001,Editorial: Coauthor! Coauthor!,2024-05-21,2024,editorial,0,False
+https://openalex.org/W4398183106,https://doi.org/10.1103/prxlife.2.023008,In and Out of Criticality? State-Dependent Scaling in the Rat Visual Cortex,2024-05-21,2024,article,7,True
+https://openalex.org/W4399072986,https://doi.org/10.1103/prxlife.2.023009,Who is a Leader in the Leading Eight? Indirect Reciprocity under Private Assessment,2024-05-28,2024,article,4,True
+https://openalex.org/W4399287474,https://doi.org/10.1103/prxlife.2.023010,"Frequency-Dependent Ecological Interactions Increase the Prevalence, and Shape the Distribution, of Preexisting Drug Resistance",2024-06-03,2024,article,9,True
+https://openalex.org/W4399390590,https://doi.org/10.1103/prxlife.2.023011,"Molecular Drivers of Aging in Biomolecular Condensates: Desolvation, Rigidification, and Sticker Lifetimes",2024-06-06,2024,article,16,True
+https://openalex.org/W4399775729,https://doi.org/10.1103/prxlife.2.023012,Information Theory of Chemotactic Agents Using Both Spatial and Temporal Gradient Sensing,2024-06-18,2024,article,9,True
+https://openalex.org/W4399856373,https://doi.org/10.1103/prxlife.2.023013,Predicting the Morphology of Multiphase Biomolecular Condensates from Protein Interaction Networks,2024-06-20,2024,article,9,True
+https://openalex.org/W4400495089,https://doi.org/10.1103/prxlife.2.033001,"Mesoscale molecular assembly is favored by the active, crowded cytoplasm",2024-07-10,2024,article,6,True
+https://openalex.org/W4400682321,https://doi.org/10.1103/prxlife.2.033002,"Actin Filament Barbed-End Depolymerization by Combined Action of Profilin, Cofilin, and Twinfilin",2024-07-16,2024,article,6,True
+https://openalex.org/W4400913010,https://doi.org/10.1103/prxlife.2.033003,Temporally Correlated Active Forces Drive Segregation and Enhanced Dynamics in Chromosome Polymers,2024-07-23,2024,article,9,True
+https://openalex.org/W4400978243,https://doi.org/10.1103/prxlife.2.033004,Bacteria Navigate Anisotropic Media using a Flagellar Tug-of-Oars,2024-07-25,2024,article,5,True
+https://openalex.org/W4400980789,https://doi.org/10.1103/prxlife.2.030001,Editorial: PRX Life Celebrates Its First Anniversary,2024-07-25,2024,editorial,0,False
+https://openalex.org/W4401216166,https://doi.org/10.1103/prxlife.2.033005,Dynamic Cost Allocation Allows Network-Forming Forager to Switch Between Search Strategies,2024-08-01,2024,article,4,True
+https://openalex.org/W4401420982,https://doi.org/10.1103/prxlife.2.033006,Emergent chirality in active solid rotation of pancreas spheres,2024-08-08,2024,article,11,True
+https://openalex.org/W4401541559,https://doi.org/10.1103/prxlife.2.033007,Uncovering Universal Characteristics of Homing Paths using Foraging Robots,2024-08-13,2024,article,17,True
+https://openalex.org/W4401757102,https://doi.org/10.1103/prxlife.2.033008,Enhancer-Insulator Pairing Reveals Heterogeneous Dynamics in Long-Distance 3D Gene Regulation,2024-08-22,2024,article,2,True
+https://openalex.org/W4401979752,https://doi.org/10.1103/prxlife.2.033009,Intrinsic Motivation in Dynamical Control Systems,2024-08-29,2024,article,6,True
+https://openalex.org/W4402269816,https://doi.org/10.1103/prxlife.2.033010,Three Photon Excited Image Scanning Microscopy for in-Depth Super-Resolution Studies of Biological Samples,2024-09-05,2024,article,1,True
+https://openalex.org/W4402357033,https://doi.org/10.1103/prxlife.2.033011,Proteome-Wide Assessment of Protein Structural Perturbations under High Pressure,2024-09-09,2024,article,5,True
+https://openalex.org/W4402483305,https://doi.org/10.1103/prxlife.2.033012,Guiding Diffusion Models for Antibody Sequence and Structure Co-design with Developability Properties,2024-09-12,2024,article,4,True
+https://openalex.org/W4402641252,https://doi.org/10.1103/prxlife.2.033013,Measuring Irreversibility from Learned Representations of Biological Patterns,2024-09-19,2024,article,6,True
+https://openalex.org/W4402861802,https://doi.org/10.1103/prxlife.2.033014,Modeling the 3D Spatiotemporal Organization of Chromatin Replication,2024-09-26,2024,article,4,True
+https://openalex.org/W4403130667,https://doi.org/10.1103/prxlife.2.043001,Conditioned Protein Structure Prediction,2024-10-04,2024,article,6,True
+https://openalex.org/W4403204549,https://doi.org/10.1103/prxlife.2.043002,Spatiotemporal Modeling of Mitochondrial Network Architecture,2024-10-08,2024,article,8,True
+https://openalex.org/W4403456820,https://doi.org/10.1103/prxlife.2.043003,Hydrodynamic Mechanism for Stable Spindle Positioning in Meiosis II Oocytes,2024-10-16,2024,article,1,True
+https://openalex.org/W4403602044,https://doi.org/10.1103/prxlife.2.043004,Signatures of Structural Disorder in the Developing <i>Drosophila</i> Germband Epithelium,2024-10-21,2024,article,2,True
+https://openalex.org/W4403640748,https://doi.org/10.1103/prxlife.2.043005,Mitochondrial Network Branching Enables Rapid Protein Spread with Slower Mitochondrial Dynamics,2024-10-22,2024,article,4,True
+https://openalex.org/W4403763488,https://doi.org/10.1103/prxlife.2.043006,Dynamics of Dominance in Interacting Zebrafish,2024-10-25,2024,article,4,True
+https://openalex.org/W4403833770,https://doi.org/10.1103/prxlife.2.043007,Confinement Modulates Axial Patterning in Regenerating Hydra,2024-10-28,2024,article,12,True
+https://openalex.org/W4403943666,https://doi.org/10.1103/prxlife.2.043008,Unclocklike Oscillators with Frequency Memory for the Entrainment of Biological Clocks,2024-10-31,2024,article,2,True
+https://openalex.org/W4404062183,https://doi.org/10.1103/prxlife.2.043009,Transiently Increased Coordination in Gene Regulation During Cell Phenotypic Transitions,2024-11-05,2024,article,8,True
+https://openalex.org/W4404138591,https://doi.org/10.1103/prxlife.2.043010,Learning Collective Cell Migratory Dynamics from a Static Snapshot with Graph Neural Networks,2024-11-07,2024,article,5,True
+https://openalex.org/W4404281112,https://doi.org/10.1103/prxlife.2.043011,Bifurcation Enhances Temporal Information Encoding in the Olfactory Periphery,2024-11-12,2024,article,6,True
+https://openalex.org/W4404414278,https://doi.org/10.1103/prxlife.2.043012,Protein Design by Integrating Machine Learning and Quantum-Encoded Optimization,2024-11-15,2024,article,6,True
+https://openalex.org/W4404526286,https://doi.org/10.1103/prxlife.2.043013,Jointly Embedding Protein Structures and Sequences through Residue Level Alignment,2024-11-19,2024,article,5,True
+https://openalex.org/W4404572365,https://doi.org/10.1103/prxlife.2.040001,Editorial: Machine Learning for Structural Biology,2024-11-21,2024,editorial,1,False
+https://openalex.org/W4404710872,https://doi.org/10.1103/prxlife.2.043014,Task Learning through Stimulation-Induced Plasticity in Neural Networks,2024-11-26,2024,article,2,True
+https://openalex.org/W4404757287,https://doi.org/10.1103/prxlife.2.043015,<i>Escherichia coli</i> Maintains pH via the Membrane Potential,2024-11-27,2024,article,1,True
+https://openalex.org/W4404920128,https://doi.org/10.1103/prxlife.2.043016,One Nose but Two Nostrils: Learning to Align with Sparse Connections between Two Olfactory Cortices,2024-12-02,2024,article,1,True
+https://openalex.org/W4405070905,https://doi.org/10.1103/prxlife.2.043017,Mechanisms of Chromosome Positioning During Mitosis,2024-12-05,2024,article,2,True
+https://openalex.org/W4405239266,https://doi.org/10.1103/prxlife.2.043018,KnotFold: Improving Peptide Structure Predictions with Simulated Coevolution,2024-12-10,2024,article,3,True
+https://openalex.org/W4405499104,https://doi.org/10.1103/prxlife.2.043019,Mpemba-Like Sensory Withdrawal Effect,2024-12-17,2024,article,2,True
+https://openalex.org/W4405621114,https://doi.org/10.1103/prxlife.2.043020,Inferring Nonlinear Dynamics of Cell Migration,2024-12-20,2024,article,7,True
+https://openalex.org/W4405722533,https://doi.org/10.1103/prxlife.2.043021,Evolutionary Innovation by Polyploidy,2024-12-23,2024,article,1,True
+https://openalex.org/W4405736737,https://doi.org/10.1103/prxlife.2.043022,Coupled Dynamics in Phenotype and Tissue Spaces Shape the Three-Dimensional Cancer Invasion,2024-12-24,2024,article,0,True

@@ -1,0 +1,62 @@
+[
+  {
+    "id": "https://openalex.org/W3",
+    "display_name": "Article Two",
+    "publication_year": 2024,
+    "publication_date": "2024-02-01",
+    "type": "article",
+    "doi": "https://doi.org/10.1000/article-two",
+    "ids": {
+      "doi": "https://doi.org/10.1000/article-two"
+    },
+    "counts_by_year": [
+      {"year": 2025, "cited_by_count": 4}
+    ],
+    "primary_location": {
+      "source": {
+        "id": "https://openalex.org/S4387291267",
+        "display_name": "PRX Life"
+      }
+    }
+  },
+  {
+    "id": "https://openalex.org/W4",
+    "display_name": "Review One",
+    "publication_year": 2024,
+    "publication_date": "2024-04-01",
+    "type": "review",
+    "doi": "https://doi.org/10.1000/review-one",
+    "ids": {
+      "doi": "https://doi.org/10.1000/review-one"
+    },
+    "counts_by_year": [
+      {"year": 2025, "cited_by_count": 2}
+    ],
+    "primary_location": {
+      "source": {
+        "id": "https://openalex.org/S4387291267",
+        "display_name": "PRX Life"
+      }
+    }
+  },
+  {
+    "id": "https://openalex.org/W5",
+    "display_name": "Preprint One",
+    "publication_year": 2024,
+    "publication_date": "2024-06-01",
+    "type": "preprint",
+    "doi": "https://doi.org/10.1000/preprint-one",
+    "ids": {
+      "doi": "https://doi.org/10.1000/preprint-one"
+    },
+    "counts_by_year": [
+      {"year": 2025, "cited_by_count": 8}
+    ],
+    "primary_location": {
+      "source": {
+        "id": "https://openalex.org/S4387291267",
+        "display_name": "PRX Life"
+      }
+    }
+  }
+]

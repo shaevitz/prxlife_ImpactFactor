@@ -1,0 +1,41 @@
+{
+  "label": "PRX Life 2025 JIF Proxy",
+  "journal": "PRX Life",
+  "issn": "2835-8279",
+  "jcr_year": 2025,
+  "target_citation_year": 2025,
+  "target_publication_years": [
+    2023,
+    2024
+  ],
+  "numerator": 507,
+  "denominator": 95,
+  "jif_proxy": 5.336842105263158,
+  "data_sources": {
+    "primary": "OpenAlex",
+    "validation": "Crossref",
+    "openalex_source_id": "https://openalex.org/S4387291267"
+  },
+  "assumptions": [
+    "The output is a JIF-style proxy, not the official Clarivate Journal Impact Factor.",
+    "OpenAlex type article/review is used as the public proxy for Clarivate citable items.",
+    "Preprints are excluded from all calculations.",
+    "Citations in the target year to all 2-year-window PRX Life journal items are included in the numerator.",
+    "Retraction-specific exclusions cannot be guaranteed to match Clarivate exactly with public data alone."
+  ],
+  "validation": [
+    {
+      "publication_year": 2023,
+      "openalex_count": 32,
+      "crossref_count": 32,
+      "match": true
+    },
+    {
+      "publication_year": 2024,
+      "openalex_count": 68,
+      "crossref_count": 68,
+      "match": true
+    }
+  ],
+  "generated_at": "2026-04-06T14:47:56.470917+00:00"
+}
